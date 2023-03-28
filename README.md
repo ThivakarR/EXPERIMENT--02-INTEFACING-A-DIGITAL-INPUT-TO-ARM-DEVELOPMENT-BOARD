@@ -145,13 +145,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 LED (OFF) condition:
 
-![iimg2](https://user-images.githubusercontent.com/118707074/228275838-3bd923f5-4b0f-4d31-865a-a4c8b3af4d05.png)
+
+![Screenshot_20230327_023514](https://user-images.githubusercontent.com/118707074/228276470-e68a1922-845f-4af9-8845-006af619ce56.png)
 
 
 LED (ON) condition:
 
-
- ![iimg1](https://user-images.githubusercontent.com/118707074/228275824-6b1fe853-2bb6-4c7c-a404-8bfdbf0c8e93.png)
+![Screenshot_20230327_023452](https://user-images.githubusercontent.com/118707074/228276493-00bdcd63-cd1c-47cf-ad45-08c973f9e762.png)
 
  
 ## Result :
